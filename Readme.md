@@ -1,4 +1,4 @@
-# **BNB-Voice**  
+# **Edu-Voice**  
 Revolutionizing invoicing with a blockchain-powered platform that simplifies payment requests, enhances cash flow visibility, and builds trust between businesses and clients on BNB Chain
 
 ---
@@ -12,7 +12,7 @@ To provide an efficient, secure, and transparent invoicing platform that empower
 
 ### **Invoicing and Payments**  
 - Create and manage invoices with ease.  
-- Blockchain-powered transparency via **BNB Chain**.  
+- Blockchain-powered transparency via **Edu Chain**.  
 - Download invoices in standard formats like PDF.  
 - Send invoices directly to clients via email.  
 
@@ -42,7 +42,7 @@ To provide an efficient, secure, and transparent invoicing platform that empower
 ---
 
 ## **Tech Stack**  
-- **Blockchain**: Request Network  
+- **Blockchain**:   Educhain Network  
 - **Frontend**: React, TailwindCSS  
 - **Backend**: Node.js, Express  
 - **Database**: MongoDB  
